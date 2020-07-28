@@ -24,6 +24,9 @@
 
 # Writing style
 
+## Gender
+His or her
+
 ## Formal vs Informal
 `on quite the surge`
 `now I've explained X, I believe it's time to continue with explaining Y`
