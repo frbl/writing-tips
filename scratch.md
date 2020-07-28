@@ -18,11 +18,16 @@
 ## Referring to figures
 Always refer to figures from the text
 
+## The use of 'This' and 'It'
+
 # Referencing work
 
 ## Quoting vs paraphrasing
 
 ## Reference styles
+- APA
+
+## Full stops and citations
 
 # General tips for styling in latex
 
