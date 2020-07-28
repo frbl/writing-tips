@@ -11,6 +11,16 @@
 
 ## Passive vs Active
 
+## Consistency
+- Use consistent styles (e.g. don't mix up tool-kits or toolkits, but use one).
+- Don't use synonymes for complicated concepts.
+
+# Referencing work
+
+## Quoting vs paraphrasing
+
+## Reference styles
+
 # General tips for styling in latex
 
 ## Use the correct ticks
@@ -23,3 +33,5 @@ tick to open and the
 '
 ``` 
 tick to close
+
+## Forcing newlines
