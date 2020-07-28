@@ -42,6 +42,8 @@ Always refer to figures from the text
 
 ## Full stops and citations
 
+## Formulas and equations
+
 # General tips for styling in latex
 
 ## Use the correct ticks
