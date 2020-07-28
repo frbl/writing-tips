@@ -42,6 +42,10 @@ Always refer to figures from the text
 
 ## The use of 'This' and 'It'
 
+# English
+
+## Amount vs Number of
+
 # Referencing work
 
 ## Quoting vs paraphrasing
