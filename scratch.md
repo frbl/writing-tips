@@ -3,7 +3,20 @@
 ## Introduction
 - Look at the nature [summary paragraph](http://www.cbs.umn.edu/sites/default/files/public/downloads/Annotated_Nature_abstract.pdf)
 
+## General document structure
+### Introduction
+### Backgound + motivation
+### State of the art / related work
+### Methods
+### Evaluation / Results
+### Discussion
+### Conclusion
+### Future work
+### Bibliography
+
 ## Concept vs implementation
+
+## Itemizations and enumerations
 
 # Writing style
 
