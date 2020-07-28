@@ -18,6 +18,10 @@
 
 ## Itemizations and enumerations
 
+## Sections and subsections
+- Add text between a sec and a subsec
+- Dont have just one subsec in a sec
+
 # Writing style
 
 ## Formal vs Informal
