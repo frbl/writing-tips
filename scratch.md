@@ -6,8 +6,12 @@
 ## General document structure
 ### Introduction
 ### Backgound + motivation
+
 ### State of the art / related work
+they do a summary of some papers, but a critical discussion is completely missing
 ### Methods
+no justification for the assumptions and methods used. This is often due to the fact they start implementing before having clear what the have to do
+
 ### Evaluation / Results
 ### Discussion
 ### Conclusion
@@ -84,3 +88,8 @@ tick to close
 Use the tilde (`~`)
 
 ## Forcing newlines
+
+# General tips
+
+## Reference managers
+- Mendeley
