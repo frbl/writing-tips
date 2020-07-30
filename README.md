@@ -1,7 +1,7 @@
 # Writing tips
 See https://github.com/rust-lang/mdBook for compiling the book
 
-- [ ] Have the build working
-- [ ] Makefile
+- [x] Have the build working
+- [x] Makefile
 - [ ] CI/CD
 
