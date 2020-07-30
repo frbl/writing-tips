@@ -31,6 +31,9 @@ no justification for the assumptions and methods used. This is often due to the 
 ## Gender
 His or her
 
+## I or we?
+His or her
+
 ## Abbreviations
 - Always introduce
 
@@ -90,6 +93,10 @@ Use the tilde (`~`)
 ## Forcing newlines
 
 # General tips
+
+## Common mistakes
+-they do a summary of some papers, but a critical discussion is completely missing
+- no justification for the assumptions and methods used. This is often due to the fact they start implementing before having clear what the have to do
 
 ## Reference managers
 - Mendeley
