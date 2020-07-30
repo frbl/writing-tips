@@ -27,6 +27,9 @@
 ## Gender
 His or her
 
+## Abbreviations
+- Always introduce
+
 ## Formal vs Informal
 `on quite the surge`
 `now I've explained X, I believe it's time to continue with explaining Y`
@@ -37,8 +40,10 @@ His or her
 - Use consistent styles (e.g. don't mix up tool-kits or toolkits, but use one).
 - Don't use synonymes for complicated concepts.
 
-## Referring to figures
-Always refer to figures from the text
+## Referring in text
+- Always refer to figures from the text
+
+- Forward references
 
 ## The use of 'This' and 'It'
 
