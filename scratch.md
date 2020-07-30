@@ -49,6 +49,9 @@ His or her
 
 ## Oxford comma
 
+## Introducing a section
+Try not to use 'In this section we will'
+
 # English
 
 ## Amount vs Number of
